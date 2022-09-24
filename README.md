@@ -1,5 +1,6 @@
 # Jogo de Memória
 ### Feito com JavaScript Puro
+<p>O jogo consiste em clicar nos cards e achar os seus pares</p>
 <ul>
   <li>Verde - Número de acertos</li>
   <li>Vermelho - Número de erros</li>
